@@ -1,0 +1,18 @@
+#titulo1{
+    text-shadow: 5px 5px 5px #aaa;
+}
+#titulo2{
+    text-shadow: -5px -5px 5px #aaa;
+}
+#titulo3{
+    text-shadow: 3px 3px 5px rgb(220, 107, 248),
+                 6px 6px 5px rgb(202, 112, 251),
+                 9px 9px 5px rgb(184, 56, 180);
+}
+h1{
+    font-size: 50px;
+}
+body{
+    background: white;
+    margin: 20px;
+}

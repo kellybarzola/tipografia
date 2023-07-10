@@ -1,0 +1,19 @@
+.caja{
+    border: solid black;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    margin: 50px auto;
+    border: 5px solid;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px rgb(247, 167, 200), 6px 6px #f586e2, 9px 9px 5px #f042b9;
+    font-family: Arial;
+}
+h1{
+    text-shadow: -5px -5px 5px #c998e7;
+}
+p{
+    font-size: 16px;
+    font-style: italic;
+    
+}
